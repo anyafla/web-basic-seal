@@ -1,23 +1,24 @@
 <html>
     <body>
-        <h1>Anya Fitriadila Loesita Ayu</h1>
+        <link rel="stylesheet" href="style.css">
+        <h1 style="color:rgb(115, 36, 126) ; background-color: bisque;">Anya Fitriadila Loesita Ayu</h1>
         <img src="foto.jpg" widht="100" height="100">
-        <h2>Tentang Saya</h2>
+        <h2 class="para">Tentang Saya</h2>
         <p align="left">Mahasiswa semester 5 jurusan Teknik Informatika di Universitas PGRI Madiun.Untuk saat ini sedang mengikuti studi independen di SEAL dan aktif mengikuti organisasi kampus.</p>
-        <h2>Keahlian Saya</h2>
+        <h2 class="para">Keahlian Saya</h2>
         <ol>
             <li>E-Commerce</li>
             <li>Self-Management</li>
             <li>Analytical Thinking Skills</li>
             <li>Multimedia</li>
         </ol>
-        <h2>Pendidikan Saya</h2>
+        <h2 class="para">Pendidikan Saya</h2>
         <ul>
             <li>2020-sekarang   : Universitas PGRI Madiun</li>
             <li>2017-2020       : SMA Negeri 1 Madiun</li>
         </ul>
-        <h2>Kontak Saya</h2>
-        <p><a href="https://www.linkedin.com/in/anyafitriadila/">Linkedin</a><a href="https://www.instagram.com/anya.fla">Instagram</a><a href="file:///C:/Users/HP%2014s/Documents/Tugas%20SEAL/html/portofolio"></a></p>
+        <h2 class="para">Kontak Saya</h2>
+        <p><a href="https://www.linkedin.com/in/anyafitriadila/"> Linkedin </a><a href="https://www.instagram.com/anya.fla"> Instagram </a></p>
 
     </body>
 </html>
